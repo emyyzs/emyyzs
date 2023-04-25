@@ -1,4 +1,4 @@
-### Oii eu sou a Emilly Arantes!
+### Oii eu sou a Emilly!
 
 - 🔭 Hoje trabalho com back-end
 - 🌱 Estou estudando Java 
