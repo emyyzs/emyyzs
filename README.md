@@ -6,7 +6,12 @@
 - 💬 Tenho 17 anos 
 - 📫Contato: emillyarantes04@gmail.com - (11)93145-1191
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emyyzs&show_icons=true&&theme=dracula&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emyyzs&show_icons=true&&theme=midnight-purple&include_all_commits=true)
+<div>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emyyzs&layout=compact&langs_count=7&theme=midnight-purple"/>
+  
+</div>
 
  <div style="display: inline_block"><br>
  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
