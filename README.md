@@ -1,9 +1,9 @@
 ### Oii eu sou a Emilly!
 
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estou estudando Java 
+- 🌱 Estou estudando Analise e Desenvolvimento de sistema
 - 👯 Busco oportunidade no mercado de trabalho para me tornar uma profissional qualificada na área.
-- 💬 Tenho 17 anos 
+- 💬 Tenho 18 anos 
 - 📫Contato: emillyarantes04@gmail.com - (11)93145-1191
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emyyzs&show_icons=true&&theme=midnight-purple&include_all_commits=true)
